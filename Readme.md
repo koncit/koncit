@@ -35,7 +35,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=bot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=bearbotv3&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=matuku&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=Rest-api-koncit&theme=nightowl)
+
 
 
 <details>
