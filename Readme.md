@@ -5,7 +5,7 @@
 
 <p align="center">
 
-- 👤 My name : Razul Mhd Alfhika Sadisna 
+- 👤 My name : K0NC1T 
 - 💌 I am 7 years old 
 - 👨‍💻 Bukan Programer / Heker
 - 🕹️ Ngoding itu asik
