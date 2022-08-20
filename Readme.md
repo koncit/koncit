@@ -5,13 +5,12 @@
 
 <p align="center">
 
-<marquee>- 👤 My name : K0NC1T 
+- 👤 My name : K0NC1T 
 - 💌 I am 7 years old 
 - 👨‍💻 Bukan Programer / Heker
 - 🕹️ Ngoding itu asik
 - ☠️ All system not safe
 - ☪️ Thank To Allah SWT 
-</marquee>
 </p>
 
 ------
