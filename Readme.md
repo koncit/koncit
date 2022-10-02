@@ -32,7 +32,7 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=koncitbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=anyav2&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=anyav3&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=matuku&theme=dark)
 
 
