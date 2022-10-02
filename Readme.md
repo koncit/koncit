@@ -6,7 +6,7 @@
 <p align="center">
 
 - 👤 My name : K0NC1T 
-- 💌 I am 7 years old 
+- 💌 I am Newbie 
 - 👨‍💻 Bukan Programer / Heker
 - 🕹️ Ngoding itu asik
 - ☠️ All system not safe
