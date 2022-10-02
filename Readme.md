@@ -31,8 +31,8 @@
 <p align="center"><a href="https://github.com/koncit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koncit&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=bearbotv3&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=koncitbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=anyav2&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=koncit&repo=matuku&theme=dark)
 
 
